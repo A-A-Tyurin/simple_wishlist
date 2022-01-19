@@ -1,19 +1,17 @@
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
-[![SQLite3](https://img.shields.io/badge/-SQLite-464646?style=flat-square&logo=SQLite)](https://www.sqlite.org/)
-[![unittest](https://img.shields.io/badge/-unittest-464646?style=flat-square&logo=unittest)](https://docs.python.org/3/library/unittest.html)
+[![Flask](https://img.shields.io/badge/-Flask-464646?style=flat-square&logo=Flask)](https://flask.palletsprojects.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-464646?style=flat-square&logo=MySQL)](https://mysql.com/)
+[![SQLAlchemy](https://img.shields.io/badge/-unittest-464646?style=flat-square&logo=unittest)](https://www.sqlalchemy.org/)
+[![Pydantic](https://img.shields.io/badge/-Pydantic-464646?style=flat-square&logo=Pydantic)](https://pydantic-docs.helpmanual.io/)
 
 ## Проект
 
-Небольшое CRUD API для вишлист. Позволяет создать, обновлять и удалять записи с параметрами: название, ссылка, цена, примечание.
+Небольшое CRUD API для приложение "вишлист". Позволяет создавать, обновлять и удалять записи с параметрами: название, ссылка, цена, примечание.
 
 ## Запуск проекта в dev-режиме
- - Клонировать репозиторий и перейти в него в командной строке:
+ - Клонировать репозиторий:
 ```
 git clone https://github.com/A-A-Tyurin/simple_wishlist
-```
-```
-cd yatube_api
 ```
  - Cоздать и активировать виртуальное окружение:
 ```
