@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/-Flask-464646?style=flat-square&logo=Flask)](https://flask.palletsprojects.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-464646?style=flat-square&logo=MySQL)](https://mysql.com/)
-[![SQLAlchemy](https://img.shields.io/badge/-unittest-464646?style=flat-square&logo=unittest)](https://www.sqlalchemy.org/)
+[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464646?style=flat-square&logo=SQLAlchemy)](https://www.sqlalchemy.org/)
 [![Pydantic](https://img.shields.io/badge/-Pydantic-464646?style=flat-square&logo=Pydantic)](https://pydantic-docs.helpmanual.io/)
 
 ## Проект
